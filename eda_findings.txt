@@ -1,0 +1,6 @@
+1. Dataset contains X rows and Y columns.
+2. SalePrice is right-skewed.
+3. Missing values found in columns: ______.
+4. IQR method detected ___ outliers in SalePrice.
+5. Outliers were capped/removed to avoid data loss.
+6. Strong correlation observed between _____ and _____.
